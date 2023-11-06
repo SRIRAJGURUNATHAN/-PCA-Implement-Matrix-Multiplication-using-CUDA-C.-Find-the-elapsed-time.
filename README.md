@@ -22,8 +22,8 @@ Intoduce a Main function, in the main method declare the required variables and 
 Save the program and execute it .
 ## Program:
 ```
-Developed By: MARELLA DHARANESH
-Register no.: 212222240062
+Developed By: k jaya suryaa
+Register no.: 212222040060
 ```
 ```
 #include <stdio.h>
