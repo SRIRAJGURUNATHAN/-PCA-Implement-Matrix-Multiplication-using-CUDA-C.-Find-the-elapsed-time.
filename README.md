@@ -1,4 +1,4 @@
-# -PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time.
+#EXPERIMENT 5:-PCA-Implement-Matrix-Multiplication-using-CUDA-C.-Find-the-elapsed-time.
 Implement Matrix Multiplication using GPU.
 
 ## Aim:
@@ -22,8 +22,8 @@ Intoduce a Main function, in the main method declare the required variables and 
 Save the program and execute it .
 ## Program:
 ```
-Developed By: k jaya suryaa
-Register no.: 212222040060
+Developed By: SRIRAJ G
+Register no.: 212222040161
 ```
 ```
 #include <stdio.h>
